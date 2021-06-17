@@ -1,6 +1,6 @@
 # Crypto Prediction Discord Bot Docs
 ## _You'd better be right..._
- A Discord bot that allows users to place 24-hour predictions on crypto assets. Currently supported assets are any assets on the Binance futures exchange. Assets that look like ``BTCUSDT``
+ A Discord bot that allows users to place predictions on crypto assets. Currently supported assets are any assets on the Binance futures exchange. Assets that look like ``BTCUSDT``
 
 - BTC
 - ETH
