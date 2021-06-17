@@ -22,3 +22,13 @@ You start a command just like you are starting any message to a channel. Type a 
 ## Inviting to your discord.
 
 For now, until features are more complete, will only be available on the Cryptonauts discord server
+
+## Notes About Privacy
+
+### My Data
+
+The only data that is saved that identifies you specifically is your discord user id and and local server name. (Not your discord username and discriminator). it is recorded upon the first time that you use the ``/prediction`` command. Only one person has access to this information and it is not sold or shared in any way. Upon request, it can be requested/deleted. (DM me CryptoCoder#7181) As long as you do not interact with the bot using any of the commands, your information will not be recorded again.
+
+### DMs (Direct Messages)
+
+The bot will not DM you unless you make a prediction. You must initiate this process and it will DM you the result of your prediction only. It doesn't listen for responses. So if you recieve a DM from a bot that is made to look like this bot, please do not interact with the DM by replying. 
