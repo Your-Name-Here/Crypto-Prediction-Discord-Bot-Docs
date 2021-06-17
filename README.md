@@ -13,8 +13,9 @@ The commands take advantage of the new discord slash commands instead of the tra
 
 - ``/prediction`` is how place a prediction. Example: ``/prediction symbol:BTCUSDT direction:Up``
     - ``Symbol`` The symbol to place the prediction on. 
-    - ``Direction`` The If you think the asset will gain or loss value in the next 24 hours. Up/Down
-- ``/mystats`` Tells you how well you're doing. 
+    - ``Direction`` If you think the asset will gain or loss value in the next 24 hours. Up/Down
+    - ``Timeframe`` This is the timeframe that you want the bot to check if you were correct. Values are in hours and are 1, 6, 12 and 24
+- ``/mystats`` Tells you how well you're doing.
 
 You start a command just like you are starting any message to a channel. Type a ``/`` then the name of the command. It will likely auto-complete for you.
 
